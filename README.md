@@ -1,2 +1,1 @@
-- 👋 Fala Devs! Meu nome é Walacy Silva
-- Sou Dev Front-end, e gosto de brincar com Javascript/Python.
+- Estudante de Rede de Computadores, apaixonado por desenvolvimento web, eletronica, programação e segurança da informação.
