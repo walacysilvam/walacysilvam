@@ -13,7 +13,7 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
 
 #### 🚧 Construindo conhecimentos em:
 
-- C#
+- C
 - Lua
 - Java
 - Python
