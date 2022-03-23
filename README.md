@@ -2,10 +2,9 @@
 
 ## Sobre
 
-:books: Estudante de Rede de Computadores - ( Unicesumar )</br>
 :bulb: Autodidata por natureza</br>
+:books: Estudante de Rede de Computadores - ( Unicesumar )</br>
 :computer: Desenvolvedor Web Front e Backend</br>
-:wrench: Eletrônica</br>
 :lock: Segurança da informação</br>
 
 #### :clipboard: Resumo
