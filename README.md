@@ -13,10 +13,19 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
 #### 🚧 Construindo conhecimentos em:
 
 - C
+- Go
 - Lua
 - Java
 - Python
-- Web - { HTML5, Css, Javascript }
+- Web:
+   - HTML5, 
+   - Css, 
+   - Javascript ,
+   - Typescript,
+   - Vue.js,
+   - Nodejs,
+   - React
+ 
 
 ![WalacySilva](https://github-readme-stats.vercel.app/api?username=walacysilvam&show_icons=true&theme=dark)
 
