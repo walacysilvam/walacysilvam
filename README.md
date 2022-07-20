@@ -10,12 +10,14 @@
 #### :clipboard: Resumo
 Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de criar e inventar coisas, o que me levou a desmontar todos os brinquedos que já ganhei. Meu primeiro computador foi adquirido quebrado, o que me fez comprar um livro sobre montagem e manutenção de computadores, e depois que vi ele inicializando pela primeira vez graças a mim, fiquei maravilhado e não parei mais.
 
-#### 🚧 Construindo conhecimentos em:
+#### 🚧 Construindo conhecimento em:
 
 - C
 - Go
 - Lua
 - Java
+- Elixir
+- Limbo
 - Python
 - Web:
    - HTML5, 
