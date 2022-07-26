@@ -14,16 +14,13 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
 
 - C
 - Go
-- Lua
-- Java
+- Rust
 - Elixir
-- Limbo
 - Python
 - Web:
    - HTML5, 
    - Css, 
    - Javascript ,
-   - Typescript,
    - Vue.js,
    - Nodejs,
    - React
