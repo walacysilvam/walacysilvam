@@ -27,6 +27,7 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
  
 
 ![WalacySilva](https://github-readme-stats.vercel.app/api?username=walacysilvam&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walacysilvam&theme=dark)](https://github.com/walacysilvam/github-readme-stats)
 
 
 > <strong>"[...] programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do." - Vint Cerf</strong>
