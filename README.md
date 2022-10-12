@@ -14,6 +14,7 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
 
 - C
 - Go
+- C++
 - Java
 - Rust
 - Elixir
