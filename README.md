@@ -13,7 +13,6 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
 #### 🚧 Construindo conhecimento em:
 
 - C
-- Go
 - C++
 - Java
 - Rust
@@ -26,6 +25,11 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
    - Vue.js,
    - Nodejs,
    - React
+
+- Frameworks:
+   - Django,
+   - Phoenix,
+   - SpringBoot
  
 
 ![WalacySilva](https://github-readme-stats.vercel.app/api?username=walacysilvam&show_icons=true&theme=dark)
