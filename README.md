@@ -3,7 +3,7 @@
 ## Sobre
 
 :bulb: Autodidata por natureza</br>
-:books: Estudante de Rede de Computadores - ( Unicesumar )</br>
+:books: Estudante de Rede de Computadores</br>
 :computer: Desenvolvedor Web Backend</br>
 :lock: Segurança da informação</br>
 
