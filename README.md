@@ -13,6 +13,7 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
 #### 🚧 Construindo conhecimento em:
 
 - C
+- C#
 - C++
 - Java
 - Rust
@@ -39,4 +40,4 @@ Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de cria
 > <strong>"[...] programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do." - Vint Cerf</strong>
 
 
-©walacysilva - 2022 All rights reserved.
+©walacysilva - 2023 All rights reserved.
