@@ -1,36 +1,51 @@
 <h1 align="Center">Walacy Silva</h1>
 
-## Sobre
+<p align="center">
+ <a href="#">Backend</a> • 
+ <a href="#">Machine Learning</a> • 
+ <a href="#">Redes Neurais</a> • 
+ <a href="#">Big Data</a> • 
+ <a href="#">OsDev</a> • 
+</p>
+
+### Sobre
 
 :bulb: Autodidata por natureza</br>
 :books: Estudante de Rede de Computadores</br>
 :computer: Desenvolvedor Web Backend</br>
 :lock: Segurança da informação</br>
 
-#### :clipboard: Resumo
-Grande leitor, apaixonado por musica e arte desde pequeno. Sempre gostei de criar e inventar coisas, o que me levou a desmontar todos os brinquedos que já ganhei. Meu primeiro computador foi adquirido quebrado, o que me fez comprar um livro sobre montagem e manutenção de computadores, e depois que vi ele inicializando pela primeira vez graças a mim, fiquei maravilhado e não parei mais.
+Sou apaixonado por tecnologia desde pequeno, e amo programar e desenvolver. Tenho uma boa facilidade por aprender assuntos diversos, e gosto muito de linguagens antigas e poderosas, como C!
 
-#### 🚧 Construindo conhecimento em:
+Gosto de pensar que sou um dinossauro moderno, e como hobby, pretendo aprender algumas langs antigas como: COBOL, Assembly e FORTRAN.
 
+
+#### 🚧 Minhas Skills:
+###### Minhas linguagens Principais
 - C
 - C#
 - C++
-- Java
+###### Minhas linguagens Secundarias
 - Rust
 - Elixir
 - Python
-- Web:
-   - HTML5, 
-   - Css, 
-   - Javascript ,
-   - Vue.js,
-   - Nodejs,
-   - React
+- Julia & LuaScript
 
-- Frameworks:
-   - Django,
-   - Phoenix,
-   - SpringBoot
+###### Desenvolvimento Web (Backend):
+- Python
+- .NET CORE
+- Elixir
+ 
+###### Desenvolvimento Web (Frontend):
+- HTML5 + Css, 
+- Javascript, ReactJs, VueJs.
+
+###### Meus Frameworks:
+- Django,
+- Phoenix,
+- TensorFlow
+- Torch
+- Pandas
  
 
 ![WalacySilva](https://github-readme-stats.vercel.app/api?username=walacysilvam&show_icons=true&theme=dark)
