@@ -5,7 +5,7 @@
  <a href="#">Machine Learning</a> • 
  <a href="#">Redes Neurais</a> • 
  <a href="#">Big Data</a> • 
- <a href="#">OsDev</a> • 
+ <a href="#">OsDev</a> 
 </p>
 
 ### Sobre
@@ -29,7 +29,7 @@ Gosto de pensar que sou um dinossauro moderno, e como hobby, pretendo aprender a
 - Rust
 - Elixir
 - Python
-- Julia & LuaScript
+- Julia & LuaScript (Machine Learning)
 
 ###### Desenvolvimento Web (Backend):
 - Python
@@ -41,10 +41,12 @@ Gosto de pensar que sou um dinossauro moderno, e como hobby, pretendo aprender a
 - Javascript, ReactJs, VueJs.
 
 ###### Meus Frameworks:
-- Django,
-- Phoenix,
-- TensorFlow
-- Torch
+- Django
+- Phoenix
+- Flux (Julia)
+- TensorFlow (C++)
+- PyTorch (Python)
+- Torch (LuaScript)
 - Pandas
  
 
