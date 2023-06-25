@@ -13,11 +13,13 @@
 :bulb: Autodidata por natureza</br>
 :books: Estudante de Rede de Computadores</br>
 :computer: Desenvolvedor Web Backend</br>
+:computer: Desenvolvedor Desktop C, C++</br>
 :lock: Segurança da informação</br>
+💙 Estudando: Assembly, Cobol & Desenvolvimento BareMetal
 
-Sou apaixonado por tecnologia desde pequeno, e amo programar e desenvolver. Tenho uma boa facilidade por aprender assuntos diversos, e gosto muito de linguagens antigas e poderosas, como C!
+Sou apaixonado por tecnologia desde pequeno, e amo programar e desenvolver. Tenho uma boa facilidade por aprender assuntos diversos, e gosto muito de linguagens antigas e poderosas, como C! Tenho grande interesse em apredender e desenvolver nos campos: Redes Neurais e BigData, Desenvolvimento de Sistemas, Sistemas Embarcados e Programação de baixo nível, e por fim Desenvolvimento Web Backend.
 
-Gosto de pensar que sou um dinossauro moderno, e como hobby, pretendo aprender algumas langs antigas como: COBOL, Assembly e FORTRAN.
+Estou aberto para qualquer oportunidade de crescimento profissional e intelctual, caso tenha interesse em me contactar ou contratar para sua equipe, meu e-mail é: walacysm@gmail.com
 
 
 #### 🚧 Minhas Skills:
@@ -25,30 +27,29 @@ Gosto de pensar que sou um dinossauro moderno, e como hobby, pretendo aprender a
 - C
 - C#
 - C++
+- Java
 ###### Minhas linguagens Secundarias
-- Rust
-- Elixir
+- Javascript
 - Python
-- Julia & LuaScript (Machine Learning)
+- Julia
+- Lua
 
 ###### Desenvolvimento Web (Backend):
+- C# e .Net Core
 - Python
-- .NET CORE
-- Elixir
- 
-###### Desenvolvimento Web (Frontend):
-- HTML5 + Css, 
-- Javascript, ReactJs, VueJs.
+- MariaDB, PostgresSQL, MongoDB
 
 ###### Meus Frameworks:
 - Django
-- Phoenix
 - Flux (Julia)
 - TensorFlow (C++)
 - PyTorch (Python)
-- Torch (LuaScript)
-- Pandas
- 
+- Torch (Lua)
+- Pandas (Python)
+
+ ###### Minhas Ferramentas:
+> GCC/G++, NASM, GIT, LINUX(Arch Linux, Manjaro, Ubuntu, Kali Linux), BASH, POSTGRESSQL, MARIADB, MONGODB/ATLAS, ARDUINO IDE, ECLIPSE, VSCODE, EMACS, QEMU, BLENDER 3D, PHOTOSHOP & GIMP, VIM/NANO.
+
 
 ![WalacySilva](https://github-readme-stats.vercel.app/api?username=walacysilvam&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walacysilvam&theme=dark)](https://github.com/walacysilvam/github-readme-stats)
