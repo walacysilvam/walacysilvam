@@ -4,18 +4,18 @@
  <a href="#">Backend</a> • 
  <a href="#">Machine Learning</a> • 
  <a href="#">Redes Neurais</a> • 
- <a href="#">Big Data</a> • 
+ <a href="#">Programação C/Assembly(32/64)</a> • 
  <a href="#">OsDev</a> 
 </p>
 
 ### Sobre
 
-:bulb: Autodidata por natureza</br>
-:books: Estudante de Rede de Computadores</br>
-:computer: Desenvolvedor Web Backend</br>
-:computer: Desenvolvedor Desktop C, C++</br>
-:lock: Segurança da informação</br>
-💙 Estudando: Assembly, Cobol & Desenvolvimento BareMetal
+:bulb: Autodidata por natureza </br>
+:books: Estudante de Rede de Computadores </br>
+:computer: Desenvolvedor Web Backend : Java, Python, C# </br>
+:computer: Desenvolvedor Desktop : C, C++ </br>
+💙 **Linux, OpenSource & FreeSoftware** </br>
+💙 Estudando: *Assembly, Go & Arduino*
 
 Sou apaixonado por tecnologia desde pequeno, e amo programar e desenvolver. Tenho uma boa facilidade por aprender assuntos diversos, e gosto muito de linguagens antigas e poderosas, como C! Tenho grande interesse em apredender e desenvolver nos campos: Redes Neurais e BigData, Desenvolvimento de Sistemas, Sistemas Embarcados e Programação de baixo nível, e por fim Desenvolvimento Web Backend.
 
@@ -23,29 +23,20 @@ Estou aberto para qualquer oportunidade de crescimento profissional e intelctual
 
 
 #### 🚧 Minhas Skills:
-###### Minhas linguagens Principais
+###### Minhas linguagens **Principais**
 - C
-- C#
 - C++
 - Java
 ###### Minhas linguagens Secundarias
 - Javascript
 - Python
-- Julia
-- Lua
+- Julia / Lua
+- Go
 
 ###### Desenvolvimento Web (Backend):
-- C# e .Net Core
-- Python
-- MariaDB, PostgresSQL, MongoDB
-
-###### Meus Frameworks:
-- Django
-- Flux (Julia)
-- TensorFlow (C++)
-- PyTorch (Python)
-- Torch (Lua)
-- Pandas (Python)
+- Java + Springboot
+- Python + Django
+- MariaDB, PostgresSQL
 
  ###### Minhas Ferramentas:
 > GCC/G++, NASM, GIT, LINUX(Arch Linux, Manjaro, Ubuntu, Kali Linux), BASH, POSTGRESSQL, MARIADB, MONGODB/ATLAS, ARDUINO IDE, ECLIPSE, VSCODE, EMACS, QEMU, BLENDER 3D, PHOTOSHOP & GIMP, VIM/NANO.
