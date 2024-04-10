@@ -13,25 +13,25 @@
 :bulb: Autodidata por natureza </br>
 :books: Estudante de Rede de Computadores </br>
 :computer: Desenvolvedor Web Backend : Java, Python, C# </br>
-:computer: Desenvolvedor Desktop : C, C++ </br>
+:computer: Desenvolvedor Desktop : Java, C++ </br>
 💙 **Linux, OpenSource & FreeSoftware** </br>
-💙 Estudando: *Assembly, Go & Arduino*
+💙 Estudando: *Assembly, Rust & DBA(SQL, PL/SQL)*
 
-Sou apaixonado por tecnologia desde pequeno, e amo programar e desenvolver. Tenho uma boa facilidade por aprender assuntos diversos, e gosto muito de linguagens antigas e poderosas, como C! Tenho grande interesse em apredender e desenvolver nos campos: Redes Neurais e BigData, Desenvolvimento de Sistemas, Sistemas Embarcados e Programação de baixo nível, e por fim Desenvolvimento Web Backend.
+Sou apaixonado por tecnologia desde pequeno, e amo programar e desenvolver. Tenho uma boa facilidade por aprender assuntos diversos, e gosto muito de linguagens antigas e poderosas, como C/C++! Tenho grande interesse em apredender e desenvolver nos campos: Redes Neurais e BigData, Desenvolvimento de Sistemas, Sistemas Embarcados e Programação de baixo nível, e por fim Desenvolvimento Web Backend.
 
-Estou aberto para qualquer oportunidade de crescimento profissional e intelctual, caso tenha interesse em me contactar ou contratar para sua equipe, meu e-mail é: walacysm@gmail.com
+Estou aberto para qualquer oportunidade de crescimento profissional e intelctual, caso tenha interesse em me contactar ou contratar para sua equipe, meu e-mail é: walacysm@gmail.com / walacymsilva@outlook.com
 
 
 #### 🚧 Minhas Skills:
 ###### Minhas linguagens **Principais**
-- C
+- C#
 - C++
 - Java
 ###### Minhas linguagens Secundarias
 - Javascript
 - Python
-- Julia / Lua
-- Go
+- Assembly
+- Rust
 
 ###### Desenvolvimento Web (Backend):
 - Java + Springboot
