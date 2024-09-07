@@ -1,52 +1,58 @@
-<h1 align="Center">Walacy Silva</h1>
-
+<h1 align="center">Walacy Silva</h1>
 <p align="center">
- <a href="#">Backend</a> • 
- <a href="#">Machine Learning</a> • 
- <a href="#">Redes Neurais</a> • 
- <a href="#">Programação C/Assembly(32/64)</a> • 
- <a href="#">OsDev</a> 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Badge"/>
+  <img src="https://img.shields.io/badge/Data_Science-4F5D73?style=for-the-badge&logo=python&logoColor=white" alt="Data Science Badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge"/>
 </p>
+
 
 ### Sobre
 
-:bulb: Autodidata por natureza </br>
-:books: Estudante de Rede de Computadores </br>
-:computer: Desenvolvedor Web Backend : Java, Python, C# </br>
+:computer: Desenvolvedor Web Backend : Java, Python </br>
+:computer: Desenvolvedor Web FullStack : Javascript </br>
 :computer: Desenvolvedor Desktop : Java, C++ </br>
-💙 **Linux, OpenSource & FreeSoftware** </br>
-💙 Estudando: *Assembly, Rust & DBA(SQL, PL/SQL)*
+💙 **Linux, OpenSource & Cibersegurança(Pentest)** </br>
+💙 _Estudando: **Rust, Erlang, OpenGL & Vulkan**._
 
-Sou apaixonado por tecnologia desde pequeno, e amo programar e desenvolver. Tenho uma boa facilidade por aprender assuntos diversos, e gosto muito de linguagens antigas e poderosas, como C/C++! Tenho grande interesse em apredender e desenvolver nos campos: Redes Neurais e BigData, Desenvolvimento de Sistemas, Sistemas Embarcados e Programação de baixo nível, e por fim Desenvolvimento Web Backend.
-
-Estou aberto para qualquer oportunidade de crescimento profissional e intelctual, caso tenha interesse em me contactar ou contratar para sua equipe, meu e-mail é: walacysm@gmail.com / walacymsilva@outlook.com
+Sou apaixonado por tecnologia e amo programar e desenvolver. Tenho uma boa facilidade para aprender assuntos diversos, e gosto muito de linguagens poderosas, como C++, Rust e Erlang! Tenho grande interesse em apredender e desenvolver nos campos: BigData e Machine Learning, Computação Gráfica e Desenvolvimento Web.
 
 
 #### 🚧 Minhas Skills:
-###### Minhas linguagens **Principais**
-- C#
-- C++
-- Java
-###### Minhas linguagens Secundarias
-- Javascript
-- Python
-- Assembly
-- Rust
+##### Desenvolvimento Backend Web:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###### Desenvolvimento Web (Backend):
-- Java + Springboot
-- Python + Django
-- MariaDB, PostgresSQL
+##### Desenvolvimento FullStack:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
- ###### Minhas Ferramentas:
-> GCC/G++, NASM, GIT, LINUX(Arch Linux, Manjaro, Ubuntu, Kali Linux), BASH, POSTGRESSQL, MARIADB, MONGODB/ATLAS, ARDUINO IDE, ECLIPSE, VSCODE, EMACS, QEMU, BLENDER 3D, PHOTOSHOP & GIMP, VIM/NANO.
+##### Outras linguagens:
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
+![Assembly NASM](https://img.shields.io/badge/Assembly_NASM-008080?style=for-the-badge&logo=asm-hex&logoColor=white)
 
+##### Outras Tecnologias:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=emacs&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FFAC41?style=for-the-badge&logo=sublime-text&logoColor=white)
 
-![WalacySilva](https://github-readme-stats.vercel.app/api?username=walacysilvam&show_icons=true&theme=dark)
+##### Estatistica & Informações
+![WalacySilva](https://github-readme-stats.vercel.app/api?username=walacysilvam&show_icons=true&theme=dark) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walacysilvam&theme=dark)](https://github.com/walacysilvam/github-readme-stats)
 
 
-> <strong>"[...] programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do." - Vint Cerf</strong>
-
-
-©walacysilva - 2023 All rights reserved.
+©walacysilva - 2024 All rights reserved.
