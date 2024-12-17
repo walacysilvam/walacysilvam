@@ -13,16 +13,15 @@
 :computer: Desenvolvedor Web FullStack : Javascript </br>
 :computer: Desenvolvedor Desktop : Java, C++ </br>
 💙 **Linux, OpenSource & Cibersegurança(Pentest)** </br>
-💙 _Estudando: **Rust, Erlang, OpenGL & Vulkan**._
+💙 _Estudando: **Typescript, Erlang & OpenGL**._
 
-Sou apaixonado por tecnologia e amo programar e desenvolver. Tenho uma boa facilidade para aprender assuntos diversos, e gosto muito de linguagens poderosas, como C++, Rust e Erlang! Tenho grande interesse em apredender e desenvolver nos campos: BigData e Machine Learning, Computação Gráfica e Desenvolvimento Web.
+Sou apaixonado por tecnologia e amo programar e desenvolver. Tenho uma boa facilidade para aprender assuntos diversos, e gosto muito de linguagens poderosas, como C++ e Erlang! Tenho grande interesse em apredender e desenvolver nos campos: BigData e Machine Learning, Computação Gráfica e Desenvolvimento Web.
 
 
 #### 🚧 Minhas Skills:
 ##### Desenvolvimento Backend Web:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ##### Desenvolvimento FullStack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,16 +30,13 @@ Sou apaixonado por tecnologia e amo programar e desenvolver. Tenho uma boa facil
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ##### Outras linguagens:
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
 ![Assembly NASM](https://img.shields.io/badge/Assembly_NASM-008080?style=for-the-badge&logo=asm-hex&logoColor=white)
 
 ##### Outras Tecnologias:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
