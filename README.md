@@ -9,11 +9,10 @@
 
 ### Sobre
 
-:computer: Desenvolvedor Web Backend : Java, Python </br>
-:computer: Desenvolvedor Web FullStack : Javascript </br>
 :computer: Desenvolvedor Desktop : Java, C++ </br>
+:computer: Desenvolvedor Web FullStack : Javascript </br>
 💙 **Linux, OpenSource & Cibersegurança(Pentest)** </br>
-💙 _Estudando: **Typescript, Erlang & OpenGL**._
+💙 _Estudando: **Typescript, Erlang & ASM**._
 
 Sou apaixonado por tecnologia e amo programar e desenvolver. Tenho uma boa facilidade para aprender assuntos diversos, e gosto muito de linguagens poderosas, como C++ e Erlang! Tenho grande interesse em apredender e desenvolver nos campos: BigData e Machine Learning, Computação Gráfica e Desenvolvimento Web.
 
@@ -37,13 +36,10 @@ Sou apaixonado por tecnologia e amo programar e desenvolver. Tenho uma boa facil
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=emacs&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FFAC41?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 ##### Estatistica & Informações
