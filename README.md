@@ -5,11 +5,10 @@
 :computer: Desenvolvedor Web FullStack : **Javascript / Typescript, NodeJS** </br>
 💙 **Linux, OpenSource & Machine Learning** </br>
 
-👋 Olá! Sou um desenvolvedor de software com experiência prática em JavaScript e TypeScript, especializado na criação de APIs robustas e aplicações web. Estou em constante aprendizado para dominar tecnologias backend e entregar soluções de alta qualidade.  <br></br>
+👋 Olá! Sou um desenvolvedor de software com experiência prática em JavaScript, C++, Python. Especializando na criação de APIs robustas e aplicações web. Estou em constante aprendizado para dominar tecnologias backend e entregar soluções de alta qualidade.  <br></br>
 📚 **Estudando atualmente:**
-**TypeScript**, para escrever códigos mais seguros e organizados.
-**Arquitetura de Software**, com foco em desenvolvimento baseado em Clean Code e RESTful APIs.
-Explorando ferramentas modernas como **NestJS** para o **backend**.
+desenvolvimento baseado em Clean Code e RESTful APIs.
+Explorando ferramentas e linguagens modernas como **NextJS**, **Golang** e **Elixir**.
 
 #### 🚧 Minhas Skills:
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
