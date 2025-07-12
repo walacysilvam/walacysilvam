@@ -1,5 +1,5 @@
 <h1 align="center">Walacy Silva</h1>
-<p align="center">Backend Developer | Golang Specialist | Open to Remote Opportunities 🌍</p>
+<p align="center">Backend Developer | Become a Golang Specialist | Open to Remote Opportunities 🌍</p>
 
 ---
 
