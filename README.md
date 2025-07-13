@@ -1,4 +1,7 @@
-<h1 align="center">Walacy Silva</h1>
+<div align="center">
+  <img src="./img/capa-simples.jpeg" alt="Minha Capa" width="100%" />
+</div>
+
 <p align="center">Backend Developer | Become a Golang Specialist | Open to Remote Opportunities 🌍</p>
 
 ---
